@@ -17785,3 +17785,23 @@
     "patch": 2
   }
 }
+
+{
+      "chainId": 101,
+      "address": "62eq6MtU9Fgfi792veNP9NnwDXYVg4YuBEstRDDhsNDP",
+      "symbol": "MAXZ",
+      "name": "The MAXZ Project",
+      "decimals": 2,
+      "logoURI": "https://github.com/themaxzproject/maxz/blob/main/assets/img/maxz%20logo_black.png?raw=true",
+      "tags": [
+        "NFT",
+        "Enterprise",
+        "Community",
+        "GameFi"
+      ],
+      "extensions": {
+        "website": "https://maxz.io/",
+        "twitter": "https://twitter.com/maxzproject",
+        "discord": "https://discord.gg/6naZfRkB"
+      }
+}
